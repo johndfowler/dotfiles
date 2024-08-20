@@ -1,0 +1,10 @@
+# kitty.conf8
+# 8/18/24
+# background_opacity 0.77
+font_family MesloLGS NF
+
+
+# BEGIN_KITTY_THEME
+# Base2Tone Pool Dark
+include current-theme.conf
+# END_KITTY_THEME
